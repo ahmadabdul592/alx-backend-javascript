@@ -1,2 +1,2 @@
 # ALX BACKEND JAVASCRIPT
-This repository old the Alx backend short specialization course
+This repository holds the Alx backend short specialization course
